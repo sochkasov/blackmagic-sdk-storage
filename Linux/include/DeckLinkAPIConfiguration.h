@@ -191,6 +191,7 @@ enum _BMDDeckLinkConfigurationID {
     bmdDeckLinkConfigEthernetPTPPriority1                        = /* 'PTP1' */ 0x50545031,
     bmdDeckLinkConfigEthernetPTPPriority2                        = /* 'PTP2' */ 0x50545032,
     bmdDeckLinkConfigEthernetPTPDomain                           = /* 'PTPD' */ 0x50545044,
+    bmdDeckLinkConfigEthernetPTPLogAnnounceInterval              = /* 'PTPA' */ 0x50545041,
 
     /* Network Strings */
 
